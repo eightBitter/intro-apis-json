@@ -1,6 +1,7 @@
 # Introduction to APIs and JSON
 
 [go.ncsu.edu/introapis](http://go.ncsu.edu/introapis)
+
 ---
 
 ## Outline
