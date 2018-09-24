@@ -16,9 +16,27 @@
 
 ## What is an API?
 
+- Application Programming Interface
+- Building blocks for developing a computer program
+- Web-based system, operating system, software library, etc
+- Specifications for routines, data structures, variables, etc
+
+Note: examples include Windows API for working with Windows OS and Android API for their development kit
+
 ---
 
 ## Web APIs
+
+>When used in the context of web development, an API is typically a defined set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, which is usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format.
+
+<span style="font-size:12pt">[Wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)</span>
+
+---
+
+<img src="http://media2.govtech.com/images/940*603/api_infographic_smartfile_crop.jpg" height="500">
+<!-- ![alt text](http://media2.govtech.com/images/940*603/api_infographic_smartfile_crop.jpg) -->
+
+<span style="font-size:12pt">Retrieved from [What's an API and Why Do You Need One?](http://www.govtech.com/applications/Whats-an-API-and-Why-Do-You-Need-One.html)</span>
 
 ---
 
@@ -54,7 +72,7 @@
 
 - Strings: <span style="color:red">`"name"`</span>`:` <span style="color:green">`"Jacob"`</span>
 - Numbers: <span style="color:red">`"age"`</span>`:` <span style="color:orange">`30`</span>
-- Objects: <span style="color:red">`"employee"`</span>`:` `{` <span style="color:red">`"name"`</span>`:`<span style="color:green">`"Jacob", "age":30 `</span>`}`
+- Objects: <span style="color:red">`"employee"`</span>`:` `{` <span style="color:red">`"name"`</span>`:`<span style="color:green">`"Jacob"`</span>`,`<span style="color:red">` "age"`</span>`:`<span style="color:orange">`30`</span>`}`
 - Arrays: <span style="color:red">`"employees"`</span>`: [`<span style="color:green">`"Jacob", "Walt"`</span>`]`
 - Booleans: <span style="color:red">`"librarian"`</span>`:` <span style="color:blue">`true`</span>
 
