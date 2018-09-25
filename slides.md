@@ -126,7 +126,7 @@ Note: examples include Windows API for working with Windows OS and Android API f
 
 ---
 
-## Exercise: Explore SWAPI
+## Scavenger Hunt: Explore SWAPI
 
 Using your weapon of choice (web browser, Python, R, etc), explore SWAPI and answer these questions:
 
@@ -134,6 +134,8 @@ Using your weapon of choice (web browser, Python, R, etc), explore SWAPI and ans
 2. When was The Force Awakens released?
 3. According to the API, which planets were featured in The Empire Strikes Back?
   - Which of these planets has the highest pop?
+
+[swapi.co](https://swapi.co)
 
 ---
 
