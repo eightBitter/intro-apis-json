@@ -50,6 +50,15 @@ Note: examples include Windows API for working with Windows OS and Android API f
 
 ---
 
+## API Help(ers)!
+
+- [Twitter API Libraries](https://developer.twitter.com/en/docs/developer-utilities/twitter-libraries.html)
+  - [TwitteR](https://www.rdocumentation.org/packages/twitteR/versions/1.1.9)
+- [Using Data.gov APIs in R](https://data.library.virginia.edu/using-data-gov-apis-in-r/)
+- [SWAPI Helper libraries](https://swapi.co/documentation#python)
+
+---
+
 # Intro to JSON
 
 ---
@@ -111,14 +120,11 @@ Note: examples include Windows API for working with Windows OS and Android API f
 
 ---
 
-## API/JSON Help(ers)!
+## JSON Help!
 
 - [JSONLint](https://jsonlint.com/)
-- [Twitter API Libraries](https://developer.twitter.com/en/docs/developer-utilities/twitter-libraries.html)
-  - [TwitteR](https://www.rdocumentation.org/packages/twitteR/versions/1.1.9)
-- [Using Data.gov APIs in R](https://data.library.virginia.edu/using-data-gov-apis-in-r/)
-- [SWAPI Helper libraries](https://swapi.co/documentation#python)
 - [[Microsoft Excel] Connect to a JSON File](https://support.office.com/en-us/article/connect-to-a-json-file-f65207ab-d957-4bf0-bec3-a08bb53cd4c0)
+- [Your JSON data is ready for analysis in Tableau 10.1!](https://www.tableau.com/about/blog/2016/9/your-json-data-ready-analysis-tableau-101-59543)
 
 ---
 
