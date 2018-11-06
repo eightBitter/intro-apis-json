@@ -47,6 +47,7 @@ Note: examples include Windows API for working with Windows OS and Android API f
 - [Twitter APIs](https://developer.twitter.com/en/docs.html)
 - [Data.gov APIs](https://api.data.gov/)
 - [The Star Wars API (SWAPI)](https://swapi.co/)
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch/search?query=format%3Aapi)
 
 ---
 
@@ -128,13 +129,45 @@ Note: examples include Windows API for working with Windows OS and Android API f
 
 ---
 
-# Exercise!
+# Scavenger Hunt! Explore SWAPI
 
 ---
 
-## Scavenger Hunt: Explore SWAPI
+## What is SWAPI?
 
-Using your weapon of choice (web browser, Python, R, etc), explore SWAPI and answer these questions:
+[swapi.co](https://swapi.co)
+
+- Star Wars API
+- Structured data about episodic Star Wars films, up through The Force Awakens
+- Info about films, people, planets, species, starships, vehicles (entities)
+---
+
+## Navigating SWAPI
+
+[swapi.co](https://swapi.co)
+
+- Data organized into buckets
+- https://swapi.co/api/people returns data about all people
+- https://swapi.co/api/people/1 returns data about the first person in the index, Luke Skywalker
+- Each entity is connected to other entities by nesting URLs
+
+```JSON
+{
+  "name": "Luke Skywalker",
+  "films": [
+    "https://swapi.co/api/films/2/"
+  ],
+  "species": [
+    "https://swapi.co/api/species/1/"
+  ]
+}
+```
+
+---
+
+## Instructions
+
+Using your browser, explore SWAPI and answer these questions:
 
 1. Which movies did George Lucas produce?
 2. When was The Force Awakens released?
@@ -151,4 +184,4 @@ Using your weapon of choice (web browser, Python, R, etc), explore SWAPI and ans
 
 Jacob Shelby - jtshelby@ncsu.edu
 
-Walt Gurley - jwgurley@ncsu.edu
+Mike Nutt - mrnutt@ncsu.edu
